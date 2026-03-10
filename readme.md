@@ -1,7 +1,9 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 10 de março de 2026
+
 Empresa: Farmácia Virtual Fictícia
+
 Responsável: Ronan Farias
 
 ## Introdução
